@@ -1,5 +1,5 @@
 # Data-Visualization-Project
-World Energy Generation
+World Electricity Generation
 
 Link: 
 
