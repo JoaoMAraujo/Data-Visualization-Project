@@ -1,5 +1,5 @@
 # Data-Visualization-Project
-World Energy Generation - Data Visualization Project 2022/23
+World Energy Generation
 
 Link: 
 
