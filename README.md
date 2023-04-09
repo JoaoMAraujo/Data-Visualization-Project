@@ -1,7 +1,15 @@
 # Data-Visualization-Project
-World Energy Generation
+World Energy Generation - Data Visualization Project 2022/23
 
-Source: 
+Link: 
+
+https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption
+
+Source:
+
+'Our World in Data'
+
+Members:
 
 Daniel Torres | 20220633
 
