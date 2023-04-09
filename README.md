@@ -1,11 +1,12 @@
 # Data-Visualization-Project
 World Energy Generation
 
+Source: 
 
-Daniel Torres
+Daniel Torres | 20220633
 
-Diogo Lamy
+Diogo Lamy | 20220681
 
-João Araújo
+João Araújo | 20220672
 
-João 
+João Pólvora | 20221037
